@@ -8,6 +8,7 @@
   "main": "dist/mobile/lib/mobile.js",
   "directories": {
     "lib": "lib",
+    "dist": "dist",
     "test": "__tests__"
   },
   "files": [

@@ -8,6 +8,7 @@
   "main": "dist/web/lib/web.js",
   "directories": {
     "lib": "lib",
+    "dist": "dist",
     "test": "__tests__"
   },
   "files": [
