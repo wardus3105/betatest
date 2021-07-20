@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T07:39:15.281Z" agent="5.0 (X11)" etag="DWbt3QHgKAA8pUFRJKOp" version="14.9.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-20T10:31:07.129Z" agent="5.0 (X11)" etag="VmuzxJ-xOwi2atmf6ix4" version="14.9.0" type="github" pages="3">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1357" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -186,10 +186,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zDYjyIifA7MyTx-zqMVl-0" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="hIRHtfYY6LMKvOMqhUID-0">
-          <mxGeometry x="140" y="40" width="20" height="20" as="geometry" />
+          <mxGeometry x="127.5" y="40" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2qxWYxlcPWFy6CruMQsN-0" value="&lt;div style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Admin tạo yêu cầu nạp hàng của một máy bán hàng  trên website quản trị &lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="hIRHtfYY6LMKvOMqhUID-0">
-          <mxGeometry x="85" y="100" width="130" height="50" as="geometry" />
+        <mxCell id="2qxWYxlcPWFy6CruMQsN-0" value="&lt;div style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Người quản trị  tạo yêu cầu nạp hàng của một máy bán hàng  trên website quản trị &lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="hIRHtfYY6LMKvOMqhUID-0">
+          <mxGeometry x="72.5" y="100" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZDO8mwdpoFDRgrTPVCUx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=block;endFill=1;" edge="1" parent="hIRHtfYY6LMKvOMqhUID-0" source="93bR_1WgOe0gkmsXifJg-0" target="ZDO8mwdpoFDRgrTPVCUx-0">
           <mxGeometry relative="1" as="geometry" />
@@ -199,6 +199,9 @@
         </mxCell>
         <mxCell id="ZDO8mwdpoFDRgrTPVCUx-0" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Hoàn tất quá trình&lt;br&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="hIRHtfYY6LMKvOMqhUID-0">
           <mxGeometry x="90.5" y="1010" width="94" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe9pOpYelS_FBYeKMolC-0" value="Start" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hIRHtfYY6LMKvOMqhUID-0">
+          <mxGeometry x="87.5" y="40" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gmu7uZc-YK8DlT5AXy8f-0" value="Người nạp hàng" style="swimlane;" vertex="1" parent="qtgLi5TTTZquh0nBciSi-0">
           <mxGeometry x="275" y="30" width="275" height="1080" as="geometry" />
@@ -320,6 +323,121 @@
         </mxCell>
         <mxCell id="93bR_1WgOe0gkmsXifJg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=block;endFill=1;" edge="1" parent="qtgLi5TTTZquh0nBciSi-0" source="PNUwtx6wVzgOp2C_N99I-0" target="93bR_1WgOe0gkmsXifJg-0">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8o11ztEklwZmcb9JTwno" name="Page-3">
+    <mxGraphModel dx="1915" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="pLCCq98AkbNifwFn6XuL-0" />
+        <mxCell id="pLCCq98AkbNifwFn6XuL-1" parent="pLCCq98AkbNifwFn6XuL-0" />
+        <mxCell id="pLCCq98AkbNifwFn6XuL-2" value="Luồng thanh toán QR Code Smart Vending Machine" style="swimlane;startSize=30;" vertex="1" parent="pLCCq98AkbNifwFn6XuL-1">
+          <mxGeometry x="4" y="40" width="820" height="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="pLCCq98AkbNifwFn6XuL-6" value="Người dùng" style="swimlane;" vertex="1" parent="pLCCq98AkbNifwFn6XuL-2">
+          <mxGeometry y="30" width="205" height="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="pLCCq98AkbNifwFn6XuL-10" value="Người dùng chọn sản phẩm cần mua" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pLCCq98AkbNifwFn6XuL-6">
+          <mxGeometry x="42.5" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pLCCq98AkbNifwFn6XuL-13" value="Nguời dùng chọn phương thức thanh toán mong muốn" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pLCCq98AkbNifwFn6XuL-6">
+          <mxGeometry x="42.5" y="265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-qvAms4RKl1Teidu7vHg-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=block;endFill=1;" edge="1" parent="pLCCq98AkbNifwFn6XuL-6" source="pLCCq98AkbNifwFn6XuL-21" target="pLCCq98AkbNifwFn6XuL-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pLCCq98AkbNifwFn6XuL-21" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="pLCCq98AkbNifwFn6XuL-6">
+          <mxGeometry x="87.5" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-qvAms4RKl1Teidu7vHg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=block;endFill=1;" edge="1" parent="pLCCq98AkbNifwFn6XuL-6" source="-qvAms4RKl1Teidu7vHg-7" target="-qvAms4RKl1Teidu7vHg-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-qvAms4RKl1Teidu7vHg-7" value="Người dùng quét mã QR Code trên ứng dụng bên thứ 3 và bấm xác nhận" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pLCCq98AkbNifwFn6XuL-6">
+          <mxGeometry x="42.5" y="410" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="-qvAms4RKl1Teidu7vHg-9" value="Ứng dụng bên thứ 3 gửi yêu cầu lên máy chủ của bên thanh toán thứ 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pLCCq98AkbNifwFn6XuL-6">
+          <mxGeometry x="42.5" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pLCCq98AkbNifwFn6XuL-7" value="Máy bán hàng" style="swimlane;" vertex="1" parent="pLCCq98AkbNifwFn6XuL-2">
+          <mxGeometry x="205" y="30" width="205" height="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="pLCCq98AkbNifwFn6XuL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=block;endFill=1;" edge="1" parent="pLCCq98AkbNifwFn6XuL-7" source="pLCCq98AkbNifwFn6XuL-11" target="pLCCq98AkbNifwFn6XuL-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pLCCq98AkbNifwFn6XuL-11" value="Máy bán hàng hiển thị tổng số tiền và những phương thức thanh toán hợp lệ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pLCCq98AkbNifwFn6XuL-7">
+          <mxGeometry x="42.5" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pLCCq98AkbNifwFn6XuL-14" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="pLCCq98AkbNifwFn6XuL-7">
+          <mxGeometry x="87.5" y="280" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4XUwhKklkWHORqiicvoS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=block;endFill=1;" edge="1" parent="pLCCq98AkbNifwFn6XuL-7" source="-qvAms4RKl1Teidu7vHg-5" target="4XUwhKklkWHORqiicvoS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-qvAms4RKl1Teidu7vHg-5" value="&lt;div&gt;Máy bán hàng nhận kết qủa từ phía cổng thanh toán và hiển thị lên màn hình mã QR Code&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pLCCq98AkbNifwFn6XuL-7">
+          <mxGeometry x="28" y="410" width="149" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="4XUwhKklkWHORqiicvoS-1" value="Máy bán hàng gửi yêu cầu lên trên cổng thanh toán cho đến khi nhận được trạng thái lấy hàng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pLCCq98AkbNifwFn6XuL-7">
+          <mxGeometry x="42.5" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pLCCq98AkbNifwFn6XuL-8" value="Cổng thanh toán Hyperlogy" style="swimlane;" vertex="1" parent="pLCCq98AkbNifwFn6XuL-2">
+          <mxGeometry x="410" y="30" width="205" height="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="pLCCq98AkbNifwFn6XuL-17" value="Cổng thanh toán nhận yêu cầu tạo đơn hàng từ phía máy bán hàng và gửi yêu cầu lên máy chủ của bên thanh toán thứ 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pLCCq98AkbNifwFn6XuL-8">
+          <mxGeometry x="33.75" y="257.5" width="137.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="-qvAms4RKl1Teidu7vHg-3" value="Cổng thanh toán nhận kết quả từ phía máy chủ của bên thanh toán thứ 3 và trả về cho phía máy bán hàng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pLCCq98AkbNifwFn6XuL-8">
+          <mxGeometry x="33.75" y="410" width="137.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="-qvAms4RKl1Teidu7vHg-14" value="Cổng thanh toán nhận thông báo từ phía máy chủ của bên thứ 3 và chuyển trạng thái đơn hàng sang trạng thái " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pLCCq98AkbNifwFn6XuL-8">
+          <mxGeometry x="42.5" y="940" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pLCCq98AkbNifwFn6XuL-9" value="Máy chủ của bên thanh toán thứ 3" style="swimlane;startSize=23;" vertex="1" parent="pLCCq98AkbNifwFn6XuL-2">
+          <mxGeometry x="615" y="30" width="205" height="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="-qvAms4RKl1Teidu7vHg-1" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Máy chủ bên thanh toán thứ 3 nhận yêu cầu và trả về thông tin thanh toán bao gồm QR Code&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pLCCq98AkbNifwFn6XuL-9">
+          <mxGeometry x="33.75" y="257.5" width="137.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="-qvAms4RKl1Teidu7vHg-11" value="Máy chủ bên thanh toán thứ 3 nhận yêu cầu thanh toán và xử lý, sau đó gửi thông báo tới cổng thanh toán của Hyperlogy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pLCCq98AkbNifwFn6XuL-9">
+          <mxGeometry x="33.75" y="510" width="146.25" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pLCCq98AkbNifwFn6XuL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=block;endFill=1;" edge="1" parent="pLCCq98AkbNifwFn6XuL-2" source="pLCCq98AkbNifwFn6XuL-13" target="pLCCq98AkbNifwFn6XuL-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pLCCq98AkbNifwFn6XuL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=block;endFill=1;" edge="1" parent="pLCCq98AkbNifwFn6XuL-2" source="pLCCq98AkbNifwFn6XuL-14" target="pLCCq98AkbNifwFn6XuL-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pLCCq98AkbNifwFn6XuL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=block;endFill=1;" edge="1" parent="pLCCq98AkbNifwFn6XuL-2" source="pLCCq98AkbNifwFn6XuL-10" target="pLCCq98AkbNifwFn6XuL-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="246" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-qvAms4RKl1Teidu7vHg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=block;endFill=1;" edge="1" parent="pLCCq98AkbNifwFn6XuL-2" source="pLCCq98AkbNifwFn6XuL-17" target="-qvAms4RKl1Teidu7vHg-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-qvAms4RKl1Teidu7vHg-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=block;endFill=1;" edge="1" parent="pLCCq98AkbNifwFn6XuL-2" source="-qvAms4RKl1Teidu7vHg-1" target="-qvAms4RKl1Teidu7vHg-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="718" y="478" />
+              <mxPoint x="581" y="478" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-qvAms4RKl1Teidu7vHg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=block;endFill=1;" edge="1" parent="pLCCq98AkbNifwFn6XuL-2" source="-qvAms4RKl1Teidu7vHg-3" target="-qvAms4RKl1Teidu7vHg-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-qvAms4RKl1Teidu7vHg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=block;endFill=1;" edge="1" parent="pLCCq98AkbNifwFn6XuL-2" source="-qvAms4RKl1Teidu7vHg-5" target="-qvAms4RKl1Teidu7vHg-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-qvAms4RKl1Teidu7vHg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=block;endFill=1;" edge="1" parent="pLCCq98AkbNifwFn6XuL-2" source="-qvAms4RKl1Teidu7vHg-9" target="-qvAms4RKl1Teidu7vHg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-qvAms4RKl1Teidu7vHg-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=block;endFill=1;" edge="1" parent="pLCCq98AkbNifwFn6XuL-2" source="-qvAms4RKl1Teidu7vHg-11" target="-qvAms4RKl1Teidu7vHg-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="722" y="1010" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
